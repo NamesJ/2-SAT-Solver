@@ -1,5 +1,5 @@
 # 2-SAT-Solver
-A 2-sat solver class written in python. Expressions are passed an init parameter to CNF class. The format of the expression is similar to a regular boolean expression, except the variables are format strings ("{0}") where each different number represents a different variable
+A 2-sat solver class written in python. Expressions are passed an init parameter to CNF class. The format of the expression is similar to a regular boolean expression, except the variables are format strings ("{0}") where each different number represents a different variable.
 
 # Example
 ```
